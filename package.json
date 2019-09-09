@@ -13,7 +13,7 @@
     "express": "~5.0.0-alpha.3",
     "express-jwt": "^5.1.0",
     "jsonwebtoken": "^7.1.9",
-    "mongoose": "^4.6.7",
+    "mongoose": "^5.7.0",
     "morgan": "~1.8.0",
     "passport": "^0.3.0",
     "passport-local": "^1.0.0",
